@@ -33,6 +33,8 @@ Plakami shows banner ads from **Google AdMob**. Google may collect and use infor
 - On iOS, the advertising ID is used only if you allow tracking.
 - Google's use of this information is described in [Google's privacy policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
+Plakami may also show a link to our Instagram account. Tapping it opens Instagram, and [Instagram's privacy policy](https://privacycenter.instagram.com/policy) applies there.
+
 We don't receive any personal information from these ads.
 
 ## Keeping and deleting your information
