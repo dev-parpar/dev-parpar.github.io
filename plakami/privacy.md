@@ -21,7 +21,7 @@ Plakami finds licence plates and vehicles in photos so you can blur the plates b
 | Permission | Why |
 |---|---|
 | Camera | To take a photo when you tap "Take a photo". |
-| Photos (read) | To open the photo you pick when you tap "Choose a photo". |
+| Photos (read) | To open the photo you pick when you tap "Choose from library". |
 | Photos (add) | To save the blurred photo when you tap "Save". |
 | Tracking (iOS only, optional) | Lets Google show more relevant ads. The app works the same if you say no. |
 
