@@ -5,7 +5,7 @@ permalink: /plakami/privacy/
 
 # Plakami privacy policy
 
-_Last updated: 2026-11-21_
+_Last updated: 2026-11-22_
 
 Plakami finds licence plates and vehicles in photos so you can blur the plates before you share a photo. This policy explains what the app does with your information.
 
@@ -40,7 +40,9 @@ We don't receive any personal information from these ads.
 ## Keeping and deleting your information
 
 - We don't keep any information about you. Plakami has no account, and nothing you do in the app is sent to us.
-- To work on a photo, Plakami keeps temporary copies in its own storage on your phone: the photo you take or choose, and the blurred photo when you share it. Other apps can't read these copies. Your phone may clear them at any time, and deleting Plakami removes them.
+- Plakami keeps the photos you take or choose in **History**, in its own storage on your phone, so you can blur them again later. History keeps each photo without its hidden details, and what Plakami found in it. Other apps can't read it.
+- History stays until you delete a photo or tap **Clear all** in History. Deleting Plakami deletes History too. History isn't included in your phone's backups or moved to a new phone.
+- Choosing or sharing a photo also leaves temporary copies in Plakami's storage. Your phone may clear them at any time, and deleting Plakami removes them.
 - Photos you save stay in your photo library until you delete them there.
 - To change or withdraw your ad choices at any time:
   - In the EEA, the UK and Switzerland: **About → Ad privacy choices** in the app.
