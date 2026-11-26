@@ -5,7 +5,7 @@ permalink: /plakami/privacy/
 
 # Plakami privacy policy
 
-_Last updated: 2026-11-22_
+_Last updated: 2026-11-26_
 
 Plakami finds licence plates and vehicles in photos so you can blur the plates before you share a photo. This policy explains what the app does with your information.
 
@@ -23,19 +23,12 @@ Plakami finds licence plates and vehicles in photos so you can blur the plates b
 | Camera | To take a photo when you tap "Take a photo". |
 | Photos (read) | To open the photo you pick when you tap "Choose from library". |
 | Photos (add) | To save the blurred photo when you tap "Save". |
-| Tracking (iOS only, optional) | Lets Google show more relevant ads. The app works the same if you say no. |
 
-## Ads
+## No ads, no tracking
 
-Plakami shows banner ads from **Google AdMob**. Google may collect and use information to show and measure ads, such as your device's advertising ID, IP address and approximate location, and how you interact with the ad.
+Plakami has no ads, no analytics and no tracking. It doesn't collect any information about you or your device.
 
-- In the EEA, the UK and Switzerland, the app asks for your consent before personalised ads are shown. You can change your choice at any time in **About → Ad privacy choices**.
-- On iOS, the advertising ID is used only if you allow tracking.
-- Google's use of this information is described in [Google's privacy policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
-
-Plakami may also show a link to our Instagram account. Tapping it opens Instagram, and [Instagram's privacy policy](https://privacycenter.instagram.com/policy) applies there.
-
-We don't receive any personal information from these ads.
+Plakami shows a link to our Instagram account. Tapping it opens Instagram, and [Instagram's privacy policy](https://privacycenter.instagram.com/policy) applies there.
 
 ## Keeping and deleting your information
 
@@ -44,11 +37,6 @@ We don't receive any personal information from these ads.
 - History stays until you delete a photo or tap **Clear all** in History. Deleting Plakami deletes History too. History isn't included in your phone's backups or moved to a new phone.
 - Choosing or sharing a photo also leaves temporary copies in Plakami's storage. Your phone may clear them at any time, and deleting Plakami removes them.
 - Photos you save stay in your photo library until you delete them there.
-- To change or withdraw your ad choices at any time:
-  - In the EEA, the UK and Switzerland: **About → Ad privacy choices** in the app.
-  - On iOS: **Settings → Privacy & Security → Tracking**, then turn off Plakami.
-  - On Android: **Settings → Google → Ads** (on some phones it's under **Privacy**), then delete or reset your advertising ID.
-- How long Google keeps ad information, and how to ask Google to delete it, is described in [how Google retains data](https://policies.google.com/technologies/retention) and [Google's privacy policy](https://policies.google.com/privacy).
 
 ## Children
 
